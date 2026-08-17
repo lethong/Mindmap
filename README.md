@@ -3,8 +3,8 @@
 Alice -> Bob: hello
 Bob --> Alice: hi
 @enduml
-
-
+```
+```plantuml
 @startmindmap
 * Debian
 ** Ubuntu
