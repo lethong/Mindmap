@@ -1,3 +1,6 @@
+```plantuml
 @startuml
-Bob -> Alice : hello
+Alice -> Bob: hello
+Bob --> Alice: hi
 @enduml
+```
